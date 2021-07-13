@@ -1,11 +1,11 @@
 {
   "homepage": "https://github.com/helpermethod/connect-offset-reset",
   "description": "A commandline tool for resetting Kafka Connect source connector offsets.",
-  "version": "0.0.24",
+  "version": "0.0.25",
   "license": "Apache-2",
-  "url": "https://github.com/helpermethod/connect-offset-reset/releases/download/v0.0.24/connect-offset-reset-0.0.24-windows-x86_64.zip",
-  "hash": "sha256:e3af87b94efa283bc44485fcef5a74ba15e0413f28dad3e18c4224a0a5bf04e9",
-  "extract_dir": "connect-offset-reset-0.0.24",
+  "url": "https://github.com/helpermethod/connect-offset-reset/releases/download/v0.0.25/connect-offset-reset-0.0.25-windows-x86_64.zip",
+  "hash": "sha256:1d99f640bb6082c5ef35192dc4551bebc2dc6945e67cb912d84b9d62f7233985",
+  "extract_dir": "connect-offset-reset-0.0.25",
   "env_add_path": "bin",
   "checkver": {
     "url": "https://github.com/helpermethod/connect-offset-reset/releases/latest",
