@@ -1,11 +1,11 @@
 {
   "homepage": "https://github.com/helpermethod/connor",
   "description": "A commandline tool for resetting Kafka Connect source connector offsets.",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "license": "Apache-2",
-  "url": "https://github.com/helpermethod/connor/releases/download/v1.0.0/connor-1.0.0-windows-x86_64.zip",
-  "hash": "sha256:65d427ed2974603acb73bfd4e7f9bd6b61c618dd9db4d9f9e7c2397874e54c64",
-  "extract_dir": "connor-1.0.0",
+  "url": "https://github.com/helpermethod/connor/releases/download/v1.2.0/connor-1.2.0-windows-x86_64.zip",
+  "hash": "sha256:c6b0c697612b632eda377e158b1fb14396643a705db8312fdcb9a5e92e5a5596",
+  "extract_dir": "connor-1.2.0",
   "env_add_path": "bin",
   "checkver": {
     "url": "https://github.com/helpermethod/connor/releases/latest",
